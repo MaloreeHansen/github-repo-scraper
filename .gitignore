@@ -1,0 +1,4 @@
+selenium_env/
+output/
+__pycache/
+.DS_Store
