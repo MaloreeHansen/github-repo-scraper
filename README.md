@@ -1,6 +1,8 @@
-# GitHub Repository Scraper 🔍
+# GitHub Repository Scraper
 
-A beginner-friendly Python web scraper built with [Selenium](https://www.selenium.dev/) that extracts key information from any public GitHub repository. Pass in a repository URL and get a clean, readable Markdown summary — including the description, topics, full README content, language breakdown, health stats, and dependencies.
+A beginner-friendly Python web scraper built with [Selenium](https://www.selenium.dev/) that extracts key information from any public GitHub repository defined. 
+Pass in a repository URL and get a clean, readable Markdown summary.
+The summary includes the description, topics, full README content, language breakdown, health stats, and dependencies.
 
 ---
 
